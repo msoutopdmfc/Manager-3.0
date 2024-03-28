@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/manager",
+    "name": "pdmfc/socialiteproviders-manager-3.5",
     "description": "Easily add new or override built-in providers in Laravel Socialite.",
     "license": "MIT",
     "authors": [{
